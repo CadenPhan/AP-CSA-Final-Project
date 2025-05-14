@@ -30,4 +30,4 @@ Missing a hit will reset your score and speed.
 Spacebar - hit the spacebar whenever the square is in the hitbox
 
 Enjoy the game! 
-*/
+
