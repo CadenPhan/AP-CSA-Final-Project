@@ -6,6 +6,8 @@ I learned from this project how to add key inputs into java swing which I didn't
 
 A simple rhythm game developed in Java using the Swing library. Test your timing and reflexes by hitting the moving tile as it passes through the target area.
 
+PS: This game was insanely changed throughout my process of thinking, it's definitely not up to par with a "good" game, however it did take a lot of thinking to finally come up with an idea to actually commit to.
+
 ## Features:
 
 Smooth tile movement with increasing speed for each successful hit
